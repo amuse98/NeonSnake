@@ -1,0 +1,6 @@
+{
+  "name": "네온 스네이크 - 지렁이 게임",
+  "description": "클래식 아케이드 감성의 지렁이 게임. 다양한 게임 모드, 특수 아이템, 스킨 및 반응형 컨트롤 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
